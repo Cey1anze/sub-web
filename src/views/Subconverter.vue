@@ -211,7 +211,7 @@ export default {
           V2Ray: "v2ray",
           Trojan: "trojan",
         },
-        backendOptions: [{ value: "https://clash.ceylanze.me/sub?" }],
+        backendOptions: [{ value: "https://clashb.ceylanze.me/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
