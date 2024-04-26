@@ -42,5 +42,8 @@ module.exports = {
       navigateFallback: '/',
       navigateFallbackBlacklist: [/\/api\//]
     }
-  }
+  },
+  devServer: {
+    port: 81, // 端口
+  },
 };
